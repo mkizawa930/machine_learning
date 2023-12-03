@@ -7,7 +7,6 @@ def split_sequence(x, y, seqlen):
     
     Arguments:
         x: ndarray (time, features)
-
     """
     xs, ys = [], []
     for i in range(x.shape[0]):
