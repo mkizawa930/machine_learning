@@ -1,0 +1,12 @@
+{
+    "name": "ml",
+    "build": {
+        "context": "..",
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": []
+        }
+    }
+}
